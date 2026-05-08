@@ -1,7 +1,9 @@
 # Voice Controlled Wheelchair
 
 <p align="center">
-  <img src="images\fig1.png" width="700"/>
+
+  <img src="images/fig6.png" width="900"/>
+
 </p>
 
 ## Introduction
@@ -51,6 +53,11 @@ After detecting a command, the ESP32 classifies the speech and sends movement in
 ---
 
 # Project Structure
+<p align="center">
+
+  <img src="images/fig5.png" width="700"/>
+
+</p>
 
 ```text
 Voice Controlled WheelChair/
